@@ -211,8 +211,9 @@ game()
 
 
 ### Output:
-![Uploading 385156314-47f9b8e2-9fea-41da-ade2-6706629fd55f.png…]()
 
+
+<img width="752" alt="385156314-47f9b8e2-9fea-41da-ade2-6706629fd55f" src="https://github.com/user-attachments/assets/8d08718a-ece1-4b5a-b7ea-bd79f1e6a8f5">
 
 
 ### Result:
